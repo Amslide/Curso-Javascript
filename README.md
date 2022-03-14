@@ -36,6 +36,7 @@ si tienes otro que no está en la lista no importa, úsalo igual te servirá.
 - Google Chrome: https://www.google.com/intl/es/chrome
 - Mozilla Firefox: https://www.mozilla.org/es-MX/firefox/new/
 - Safari (sólo para dispositivos Apple)
+[An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
 
 # Temas del Curso 
 ## HTML Básico - Nivel 0
