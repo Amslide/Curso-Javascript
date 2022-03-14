@@ -116,6 +116,5 @@ Javascript, HTML, CSS, Typescript, Angular, React
 
 
 ## Support
-
-For support, email fake@fake.com or join our Slack channel.
+For support, email amslide@protonmail.com.
 
