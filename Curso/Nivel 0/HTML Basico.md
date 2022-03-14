@@ -1,5 +1,4 @@
-
-![Logo]()
+![Logo](../Config/logo.png)
 
 
 # Bienvenido al curso

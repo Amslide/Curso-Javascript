@@ -1,4 +1,5 @@
 
+![Logo](./Curso/Config/logo.png)
 
 
 # Master en Javascript
@@ -34,7 +35,7 @@ practicamente de la misma manera.
 Lo usas diariamente, con ellos navegas por internet a diario, no necesitan explicacion, 
 si tienes otro que no está en esta lista no importa, úsalo, igual te servirá.
 - Google Chrome: https://www.google.com/intl/es/chrome
-- Mozilla: https://www.mozilla.org/es-MX/firefox/new/
+- Mozilla Firefox: https://www.mozilla.org/es-MX/firefox/new/
 - Safari (sólo para dispositivos Apple)
 
 # Temas del Curso 
@@ -116,5 +117,6 @@ Javascript, HTML, CSS, Typescript, Angular, React
 
 
 ## Support
+
 For support, email amslide@protonmail.com.
 
