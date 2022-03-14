@@ -32,7 +32,7 @@ El *Body* por su parte es todo aquello que podemos ver dentro de la página.
 Dentro del Body es donde irá todo lo vamos a mostrar por pantalla en la página, para una buena práctica hay que tener en cuenta de que esta parte debe de estar dividida en 3 partes, el *Header*, el *Body* y el *Footer*, sirven para dar un orden a la información del body, es algo que hay que tenerlo en cuenta.
 Para dejarlo más claro, imaginemos que armaramos una muñeco de lego, primero ponemos la cabeza (*Header*), luego ponemos el cuerpo (*Body*) y al final los pies (*Footer*), en un documento HTML 
 
-![Ilustracion](../Ilustraciones/estructuraBodyHtml.png.png)
+![Ilustracion2](../Ilustraciones/estructuraBodyHtml.png.png)
 ```HTML
 <body>
     <header>
