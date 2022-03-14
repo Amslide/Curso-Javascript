@@ -7,12 +7,12 @@ Ahora estas en el nivel inicial, no importa si no sabes html, conforme vayamos p
 ## Fundamentos de HTML
 HTML es la estructura de una página  web (textos, imagenes, listas, etc) y está formado por etiquetas que sirven para poder darle forma a nuestro documento.
 
-Para ejemplificar la estructura de un documento HTML tomemos como base la caja de un muñeco de lego, en la parte de arriba se describen cosas como su nombre y datos relevantes del producto (*Head*) y más abajo el muñeco como tal (*Body*).
+Para ejemplificar la estructura de un documento HTML tomemos como base la caja de un muñeco de lego, en la parte de arriba se describen cosas como su nombre y datos relevantes del producto (*Head*) y más abajo el muñeco como tal (*Main*).
 
 ![Ilustracion](../Ilustraciones/estructura%20html.png)
 
 Dentro del documento HTML el *Head* vendría siendo la información más importante, sirve para poder ponerle un título a la pestaña, entre otras cosas que iremos viendo más adelante, cabe destacar que la mayor parte de esa información no se muestra al usuario, sino que las lee el navegador para interpretar el documento.
-El *Body* por su parte es todo aquello que podemos ver dentro de la página.
+El *Main* por su parte es todo aquello que podemos ver dentro de la página.
 ### Estructura de un documento HTML
 ```HTML
 <!DOCTYPE html>
@@ -38,9 +38,11 @@ Para dejarlo más claro, imaginemos que armaramos una muñeco de lego, primero p
     <header>
         Aquí van los menus por lo regular, pero se pueden poner otras cosas dentro
     </header>
-    <body>
-        aqui va todo lo relevante (post, parrafos, imágenes, etc)
-    </body>
+    <main>
+        aqui va todo lo relevante (post, parrafos, imágenes, etc).
+        El main como tal puede ser sustituido por otras etiquetas, en muchos casos te
+        a encontrar con páginas que no lo tengan, pero es bueno considerarlos.
+    </main>
     <footer>
         aqui van los menus que se encuentran al final de las páginas web, además de eso
         pueden ir otras cosas, pero en este momento no son importantes
