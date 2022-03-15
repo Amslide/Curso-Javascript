@@ -28,28 +28,51 @@ El *Body* por su parte es todo aquello que podemos ver dentro de la página.
 </html>
 ```
 
-## Estructura del Body
 Dentro del Body es donde irá todo lo vamos a mostrar por pantalla en la página, para una buena práctica hay que tener en cuenta de que esta parte debe de estar dividida en 3 partes, el *Header*, el *Main* y el *Footer*, sirven para dar un orden a la información del body, es algo que hay que tenerlo en cuenta.
-Para dejarlo más claro, imaginemos que armaramos una muñeco de lego, primero ponemos la cabeza (*Header*), luego ponemos el cuerpo (*Main*) y al final los pies (*Footer*), en un documento HTML 
+Para dejarlo más claro, imaginemos que armaramos una muñeco de lego, primero ponemos la cabeza (*Header*), luego ponemos el cuerpo (*Main*) y al final los pies (*Footer*), en un documento HTML. 
 
 ![Ilustracion2](../Ilustraciones/estructuraBodyHtml.png)
+## Estructura del Body
 ```HTML
 <body>
     <header>
         Aquí van los menus por lo regular, pero se pueden poner otras cosas dentro
     </header>
     <main>
-        aqui va todo lo relevante (post, parrafos, imágenes, etc).
-        El main como tal puede ser sustituido por otras etiquetas, en muchos casos te
-        a encontrar con páginas que no lo tengan, pero es bueno considerarlos.
+        Aquí va todo nuestro contenido relevante
     </main>
     <footer>
-        aqui van los menus que se encuentran al final de las páginas web, además de eso
+        Aqui van los menus que se encuentran al final de las páginas web, además de eso
         pueden ir otras cosas, pero en este momento no son importantes
     </footer>
 </body>
 ```
-## Componentes de HTML
+## Elementos de HTML
+Existen muchos componentes que conforman a una página web, cada uno de ellos son una pieza pequeña que nos ayudan a encuadrar nuestro contenido.
+### Elementos Básicos
+```HTML
+Para añadir Texto
+    Títulos y Subtítulos
+    <h1>Titulo</h1> 
+    <h2>Subtítulo</h2> 
+    <h3>Subtítulo más pequeño</h3> 
+    Párrafos
+    <p></p>
+
+Para añadir Saltos de Línea
+    <br> Hace un santo de línea
+    <hr> Hace un santo de línea y deja una linea debajo
+
+Para añadir Secciones
+    <section></section>
+
+Para añadir Links
+    <a href="url">link</a>
+
+Para añadir Imágenes
+    <img src="ruta" alt="nombre de imagen">
+
+```
 ## Ejercicio Básico
 
 ## Ejemplo

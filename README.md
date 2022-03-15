@@ -42,7 +42,7 @@ si tienes otro que no está en la lista no importa, úsalo igual te servirá.
 ## HTML Básico - Nivel 0
 - Fundamentos de HTML
 - Estructura de HTML
-- Componentes de HTML
+- Elementos de HTML
 - Ejercicio Básico
 ## Javascript Básico - Nivel 1
 - Fundamentos de Javascript
